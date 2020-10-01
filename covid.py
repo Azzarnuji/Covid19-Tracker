@@ -2,7 +2,6 @@ from os import system
 import sys
 from sys import platform
 import requests
-from flask import Flask,render_template,request
 import json
 import urllib.request
 class Covid:
